@@ -1,0 +1,10 @@
+<home>
+  <device name="lamp">
+    <ip>10.58.35.81</ip>
+    <channel>1</channel>
+  </device>
+  <device name="musicCenter">
+    <ip>10.58.35.81</ip>
+    <channel>2</channel>
+  </device>
+</home>
